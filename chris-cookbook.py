@@ -1,6 +1,10 @@
 import json
 import os
 import sys
+import codeToolkit
 
 
-print('Test')
+codeToolkit.clearConsole()
+codeToolkit.pageBreak()
+codeToolkit.declareScriptEnd()
+codeToolkit.pageBreak()
